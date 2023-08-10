@@ -1,2 +1,2 @@
 # im4j
-internet message  implemented by java
+Internet Message Implemented By Java
